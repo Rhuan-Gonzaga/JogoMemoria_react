@@ -31,7 +31,7 @@ body{
 
   -webkit-transform-style: preserve-3d;
   -webkit-transition: transform .5s;
- transform-style: preserve-3d;
+  transform-style: preserve-3d;
   transition: transform .5s;
 }
 
@@ -74,6 +74,7 @@ body{
   color: #101c2c;
   background-color: #05c3ff;
   font-size: 30px;
+  cursor: pointer;
   /* display: none; */
 
 }
@@ -103,6 +104,7 @@ body{
   border: none;
   border-radius:10px;
   margin-top:10px;
+  cursor: pointer;
 }
 
 #gameBoard{
